@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './logo-algoritmos.jpg';
 import './App.css';
 
 function App() {
@@ -9,6 +9,8 @@ function App() {
         <p>
           We are working on this website. Algoritmos SRL
         </p>
+        <img alt='logo' src={logo}/>
+
       </header>
     </div>
   );
